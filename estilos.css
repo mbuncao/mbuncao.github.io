@@ -3,12 +3,17 @@ padding: 0;
 margin:0;
 text-align: center;
 }
+#agenda{
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
 p.cursive {
     font-family: Florence, cursive;
 }
 #titulo{
 	color: blue;
-	font-size: 30pt;
+	font-size: 20pt;
 	position: relative;
 	z-index:-1;
 	top:30px;
@@ -18,6 +23,8 @@ p.cursive {
 article{
 	border:1px solid green;
 	margin-bottom: 5px;
+	padding: 1px;
+	margin: 0;
 }
 nav {
 	position: fixed;
