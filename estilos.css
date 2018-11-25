@@ -8,6 +8,7 @@ list-style-type: none;
 padding: 0;
 margin: 0;
 }
+
 p.cursive {
     font-family: Florence, cursive;
 }
@@ -58,4 +59,8 @@ nav ul li a {
  
  footer{
  	border:1px solid green;
+ }
+ img{
+ 	max-width: 100px;
+ 	width: auto;
  }
